@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Soubhagyajit.
 - 👀 I’m interested in web development, app development, machine learning and more contents.
-- 🌱 I’m currently learning front end frameworks for one time load web apps.
+- 🌱 I’m currently learning front end frameworks.
 - 📫 Mail me in soubhagyajitborah@gmail.com
 
 <!---
