@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Soubhagyajit.
 - 👀 I’m interested in web development, app development, machine learning and more contents.
-- 🌱 I’m currently learning front end frameworks.
-- 📫 Mail me in soubhagyajitborah@gmail.com
+- 🌱 I’m currently focussing on my studies.
+- 📫 Mail me in me@soubhagyajit.com
 
 <!---
 soubhagyajit/soubhagyajit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
